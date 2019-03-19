@@ -1,0 +1,2 @@
+# android-simple-mvp
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ebb5d05e4de4d149d5a1bf4ddf0959d)](https://app.codacy.com/app/aflahtaqiu/android-simple-mvp?utm_source=github.com&utm_medium=referral&utm_content=aflahtaqiu/android-simple-mvp&utm_campaign=Badge_Grade_Dashboard)
